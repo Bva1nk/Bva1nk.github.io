@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // --- WINDOWS 11 DESKTOP SIMULATION CORE LOGIC ---
-    // Taskbar, Start menu, Desktop icons, Apps, Lockscreen, Terminal with crash
+    // --- WINDOWS 11 DESKTOP SIMULATION  ---
+    
 
     // Taskbar and Start menu logic
     const startBtn = document.getElementById('win11-start-btn');
